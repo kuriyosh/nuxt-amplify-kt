@@ -1,0 +1,17 @@
+{
+  "projectName": "nuxtAmplifyKt",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "vue",
+    "config": {
+      "SourceDir": "src",
+      "DistributionDir": "dist",
+      "BuildCommand": "yarn build",
+      "StartCommand": "yarn start"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
